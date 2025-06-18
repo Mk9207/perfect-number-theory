@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "Constructive Theory of Perfect Numbers"
-authors:
-  - family-names: Koide
-    given-names: Masaki
-date-released: 2025-06-18
-url: "https://github.com/Mk9207/perfect-number-theory"
